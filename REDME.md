@@ -10,3 +10,12 @@ EXMPLE site: https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-an
 
 Docker Images for Docker
 https://hub.docker.com/_/docker?tab=tags
+
+Docker AWS ECR
+https://plugins.jenkins.io/amazon-ecr/
+
+Build and Push ECR
+https://www.cidevops.com/2020/07/automate-docker-builds-using-jenkins.html
+
+Build & Test NPM app Jenkinsfile
+https://github.com/jenkins-docs/simple-node-js-react-npm-app
